@@ -19,7 +19,7 @@ Source: [Pen-Based Recognition of Handwritten Digits](https://archive.ics.uci.ed
 
 The PCA transformation reduced the data dimensionality from `64` to `2` and then `3 principal components`, explaining approximately `21.6% and 30%` respectively of the total variance in the dataset. This project demonstrates the use of PCA to analyze and differentiate handwritten digits, which can significantly improve the performance of an image recognition system for a postal service.
 
-## References 
+## References  
 
 1- E. Alpaydin, Fevzi. Alimoglu, Department of Computer Engineering, Bogazici University, Istanbul, Turkey.
 
