@@ -4,6 +4,9 @@
 
 The goal of this project is to identify which handwritten digits are most differentiated using Principal Component Analysis (PCA). This project simulates a scenario where an image recognition service is implemented for a postal service to automatically read handwritten digits, improving efficiency and accuracy over human recognition.
 
+![Digit 0](images/Digit 0.png)
+
+
 ## Dataset
 
 The dataset consists of handwritten digits collected by E. Alpaydin and Fevzi. Alimoglu from the Department of Computer Engineering, Bogazici University, Turkey. The data includes 250 samples from 44 writers. The samples written by 30 writers are used for training, cross-validation, and writer-dependent testing, while the digits written by the other 14 are used for writer-independent testing. The dataset is available in the UNIPEN format.
