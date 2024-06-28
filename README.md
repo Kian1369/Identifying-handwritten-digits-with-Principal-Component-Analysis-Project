@@ -4,7 +4,10 @@
 
 The goal of this project is to identify which handwritten digits are most differentiated using Principal Component Analysis (PCA). This project simulates a scenario where an image recognition service is implemented for a postal service to automatically read handwritten digits, improving efficiency and accuracy over human recognition.
 
-<img src="images/Digit%200.png" alt="Digit 0" width="400" />
+<div style="display: flex; justify-content: space-between;">
+  <img src="images/2%20Principal%20Components.png" alt="2 Principal Components" style="width: 48%;">
+  <img src="images/3%20Principal%20Components.png" alt="3 Principal Components" style="width: 48%;">
+</div>
 
 ## Dataset
 
