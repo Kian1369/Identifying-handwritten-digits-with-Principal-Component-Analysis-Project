@@ -17,4 +17,5 @@ The PCA transformation reduced the data to 2 principal components, explaining ap
 ## References 
 
 1- E. Alpaydin, Fevzi. Alimoglu, Department of Computer Engineering, Bogazici University, Istanbul, Turkey.
+
 2- Dataset Source: Pen-Based Recognition of Handwritten Digits
